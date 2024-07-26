@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! I'm Jianing Zhang and welcome!
 
-<!--
-**jianingnz/jianingnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Info About me
+Hi! I’m Jianing Zhang and currently a Junior student studying Computer Science at the University of Washington, Paul G. Allen School.
 
-Here are some ideas to get you started:
+I’m deeply keen on Artificial Intelligence and have done some research on CV and Optimization. Feel free to talk to me if interested!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Moreover, I am also interested in software development and had some projects on this topic as well, including an ongoing UW CIRCLE web app(in repository).
+
+### Contact
+Please contact me if interested :)
+- Email: jz283@cs.washington.edu
+- LinkedIn: https://www.linkedin.com/in/jianing-zhang-1a113b259/
+- Personal Portfolio: https://jianingnz.github.io/
+
+
