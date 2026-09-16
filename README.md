@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7B2FF7&center=true&vCenter=true&width=600&lines=M.S.+in+Computer+Vision+at+CMU;Teaching+models+to+understand+motion+in+3D" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7B2FF7&center=true&vCenter=true&width=600&lines=M.S.+in+Computer+Vision+%40+CMU;Teaching+models+to+understand+motion+in+3D" alt="Typing intro"/>
 </p>
 
 <p align="center">
