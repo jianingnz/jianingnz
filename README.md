@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C41230,50:7B2FF7,100:1F6FEB&height=180&section=header&text=Hi,%20I'm%20Jianing&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Hi, I'm Jianing"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7B2FF7&center=true&vCenter=true&width=600&lines=M.S.+in+Computer+Vision+%40+CMU;Teaching+models+to+understand+motion+in+3D" alt="Typing intro"/>
+  <img src="assets/banner.svg" width="100%" alt="Jianing Zhang, M.S. in Computer Vision @ Carnegie Mellon University"/>
 </p>
 
 <p align="center">
@@ -17,7 +13,7 @@ I'm a master's student in Computer Vision at **Carnegie Mellon University**, doi
 
 ### 🚀 Highlights
 
-- **[MolmoMotion](https://molmomotion.github.io/)**: co-first author of Ai2's open model for forecasting 3D motion from language, released with code, models, and a 1M-sample dataset <a href="https://github.com/allenai/molmo-motion"><img src="https://img.shields.io/github/stars/allenai/molmo-motion?style=social" alt="Stars" align="center"/></a>
+- **[MolmoMotion](https://molmomotion.github.io/)**: co-first author of Ai2's open model for forecasting 3D motion from language, released with code, models, and a 1M-sample dataset &nbsp;<a href="https://github.com/allenai/molmo-motion"><img src="https://img.shields.io/github/stars/allenai/molmo-motion?style=flat-square&label=&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiLz48L3N2Zz4=&labelColor=C41230&color=C41230" alt="GitHub stars" align="center"/></a>
 - **[TrajTok](https://arxiv.org/abs/2602.22779)**: trajectory tokens for video understanding, accepted to CVPR 2026
 
 ### 🛠️ Tech I Use
@@ -33,8 +29,4 @@ I'm a master's student in Computer Vision at **Carnegie Mellon University**, doi
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:7B2FF7,100:C41230&height=100&section=footer" width="100%" alt=""/>
 </p>
